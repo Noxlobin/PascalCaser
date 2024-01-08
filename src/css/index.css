@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,500;1,700&display=swap");
+
+* {
+  font-family: "Nunito";
+}
+
+button {
+  display: inline-block;
+  padding: 7px 17px;
+  font-size: 15px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  border-radius: 4px;
+  border: none;
+  color: #fff;
+  background-color: #838383;
+  transition: background-color 400ms linear;
+}
+
+/* Hover effect */
+button:hover {
+  background-color: #9d9e9e;
+}
+
+input {
+  padding: 7px 13px;
+  height: 100%;
+  display: block;
+  margin-block: 6px;
+  border-radius: 5px;
+  border: 1px solid rgb(160, 159, 159);
+}
