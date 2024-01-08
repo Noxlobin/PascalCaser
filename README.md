@@ -10,7 +10,11 @@ Open the website, and input your sentences (should be space separated), and it s
 
 Copy the git repo:
 
-<!--TODO: Write the step to copy the repo-->
+```git
+
+  git clone https://github.com/Noxlobin/PascalCaser.git
+
+```
 
 **Optional**: Recompile the typescript:
 
